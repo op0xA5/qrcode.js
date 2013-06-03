@@ -1,0 +1,2 @@
+#pragma add_include_path qrcode-m1-l
+#pragma header Content-type: text/javascript; charset=utf-8
